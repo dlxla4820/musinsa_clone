@@ -1,2 +1,2 @@
-# musinsa_clone
+# kimsinsa(musinsa_clone)
 Clone coding to Musinsa website
